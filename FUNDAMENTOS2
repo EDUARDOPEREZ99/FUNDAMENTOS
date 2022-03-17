@@ -1,0 +1,36 @@
+<!DOCTYPE html>1
+<html lang="en">1
+<head>1
+    <meta charset="UTF-8">1
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">1
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">1
+    <title>Document</title>1
+</head>1
+<body>1
+    float
+   type entero //x is of 
+    let x=4;
+    type float // y is of
+    y = 3.14159;
+</body>
+Nombre="Eduardo Perez";
+x="Eduardo";
+// is the same as
+x="Eduardo";
+<console.log(typeof(x));
+valorV=True;
+valorF=False;
+typeof();
+x=5;
+></body>
+js es case-sentative
+a=4;
+a="sally";
+//A will not overwrite a
+</body>
+//A will not overwrite a 
+/*Mi comentario final es que este codigo es de gran funcionalidad y nos sirve para aprender poco 
+a utilizar los comandos y funciones de virtual studio este programa sirve para desarrollar un nuestros 
+conocimientos*/
+<body></body>
+</html>
